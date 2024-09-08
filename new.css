@@ -1,0 +1,62 @@
+body {
+	background-color : blue;
+}
+h1 {
+font-family :helvetica ;
+font-size : 60px;
+/*text-decoration-line: overline ;*/
+text-decoration-color : white; 
+/*text-decoration-style : dashed;
+text-decoration-line : underline overline;*/
+color: white;
+margin-top : 40px;
+margin-bottom : 50px;
+letter-spacing : none;
+
+
+}
+p {
+font-family : helvetica;
+font-size : 20px;
+text-align-last : left;
+color: white;
+margin-bottom : px;
+background-color : none;
+text-decoration-line: none;
+text-decoration-thickness : none;
+text-decoration-style : none;
+text-transform: none;
+text-indent: 20px;
+letter-spacing:none;
+text-align-last:center;
+line-height:20px;
+word-spacing : 2px;
+}
+
+
+p1 {
+
+font-family : helvetica;
+font-size:30px;
+color: white;
+}
+
+.main {
+	font-size: 30px;
+	font-family : helvetica;
+}
+
+.random {
+font-size:20px;
+}
+
+
+
+
+
+
+
+
+
+
+
